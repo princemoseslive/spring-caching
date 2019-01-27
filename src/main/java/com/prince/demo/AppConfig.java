@@ -11,7 +11,7 @@ import org.springframework.core.io.ClassPathResource;
 
 @Configuration
 @EnableCaching
-@ComponentScan({ "com.prince.demo.*" })
+@ComponentScan({ "com.prince.*" })
 public class AppConfig {
 
 	@Bean
