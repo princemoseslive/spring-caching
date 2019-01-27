@@ -1,5 +1,5 @@
 # spring-caching
-Tutorial to make Caching with Spring
+Tutorial on how to enable data caching in a Spring application and integrate with the popular Ehcache framework
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
